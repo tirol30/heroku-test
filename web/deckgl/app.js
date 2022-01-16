@@ -2,7 +2,7 @@ const DATA_URL = 'https://raw.githubusercontent.com/visgl/deck.gl-data/master/ex
 
 deck.GeoJsonLayer({
     id: 'geojson-layer',
-    data=DATA_URL,
+    data: DATA_URL,
     pickable: true,
     stroked: false,
     filled: true,
