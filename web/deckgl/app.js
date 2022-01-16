@@ -1,6 +1,3 @@
-<script src="https://unpkg.com/deck.gl@^8.0.0/dist.min.js"></script>
-
-
 // Source data GeoJSON
 const DATA_URL =
   'https://raw.githubusercontent.com/visgl/deck.gl-data/master/examples/geojson/vancouver-blocks.json'; // eslint-disable-line
